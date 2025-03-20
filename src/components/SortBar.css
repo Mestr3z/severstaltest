@@ -1,0 +1,24 @@
+.sort-bar {
+    margin-bottom: 16px;
+}
+
+.sort-label {
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+.sort-button {
+    margin-right: 8px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+
+.sort-button.active {
+    background-color: #b3d9ff;
+}
+
+.toggle-dir-button {
+    margin-left: 8px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
