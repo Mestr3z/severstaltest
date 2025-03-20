@@ -3,7 +3,6 @@ import "./SortBar.css";
 
 export default function SortBar({
   sortField,
-  sortDir,
   onSortChange,
   onSortDirChange,
 }) {
